@@ -1,0 +1,8 @@
+{
+  "dir": "files",
+  "backupDir": "backups",
+  "nameLogFile": "DB",
+  "mimes": ["image/jpeg", "image/png"],
+  "ignoredFiles": [".DS_Store"],
+  "apiKey": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+}
